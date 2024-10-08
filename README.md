@@ -1,2 +1,2 @@
 # web-dev-starter
-Starter (boilerplate) for all future web projects.
+Starter (boilerplate) for all future static website projects!
